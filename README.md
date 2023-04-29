@@ -10,6 +10,7 @@ To get started with this project, you can download or clone the repository onto 
 ## Prerequisites
 
 • Android Studio
+
 • Java Development Kit (JDK)
 
 
@@ -40,6 +41,7 @@ Once the app is running, you can start playing Tic Tac Toe.
 ## Built With
 
 • Android Studio
+
 • Java Development Kit (JDK)
 
 ## Authors
