@@ -49,4 +49,5 @@ Once the app is running, you can start playing Tic Tac Toe.
 ## Acknowledgments
 
 • [Android Developers documentation](https://developer.android.com/docs)
-• [Java documentation(https://docs.oracle.com/en/java/javase/14/docs/api/index.html)
+
+• [Java documentation](https://docs.oracle.com/en/java/javase/14/docs/api/index.html)
