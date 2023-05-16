@@ -46,7 +46,7 @@ Once the app is running, you can start playing Tic Tac Toe.
 
 ## Authors
 
-• Pranjal Agarwal
+• Pranjal Agarwal(211B218)
 
 ## Acknowledgments
 
